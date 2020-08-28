@@ -1,4 +1,8 @@
 // Define variables for your color scheme
+@import "materialize/components/color-variables";
+// $primary-color: color("blue", "lighten-2") !default;
+// $secondary-color: color("yellow", "base") !default;
+@import 'materialize';
 
 // For example:
 $red: #FD1015;

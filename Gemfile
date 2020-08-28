@@ -33,6 +33,10 @@ gem 'font-awesome-sass'
 gem 'simple_form'
 gem 'devise'
 
+gem 'materialize-sass', '~> 1.0.0'
+gem 'material_icons' 
+
+
 
 group :development, :test do
   gem 'pry-byebug'
